@@ -26,7 +26,7 @@ const jefferson = {
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongodb", "MySql", "sqlite"],
-        misc: ["Firebase", "Angular", "selenium", "Django", "php", "SuiteApp", "Proteus", "Comsol", "Matlab"]
+        misc: ["Firebase", "Angular", "selenium", "Django", "php", "SuiteApp", "Proteus", "Comsol", "Matlab"],
         learning: ["ReactJS", "VUE", "R","Machine Learning", "Deep Learning"]
     },
     architecture: ["Progressive web applications", "Single page applications", ${almost}: "Serverless Architecture"],
