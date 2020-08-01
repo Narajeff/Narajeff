@@ -13,7 +13,7 @@
 const jefferson = {
     pronouns: "He" | "Him",
     code: ["assembler", "HTML", "CSS", "Javascript", "Java", "Python", "php"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    askMeAbout: ["web dev", "tech", "app dev", "microprocessor programmer", "Electronics dev"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
@@ -26,7 +26,7 @@ const jefferson = {
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongodb", "MySql", "sqlite"],
-        misc: ["Firebase", "Angular", "selenium", "Django", "php", "SuiteApp"]
+        misc: ["Firebase", "Angular", "selenium", "Django", "php", "SuiteApp", "Proteus", "Comsol", "Matlab"]
         learning: ["ReactJS", "VUE", "R","Machine Learning", "Deep Learning"]
     },
     architecture: ["Progressive web applications", "Single page applications", ${almost}: "Serverless Architecture"],
