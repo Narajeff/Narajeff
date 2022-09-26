@@ -15,7 +15,7 @@ const jefferson = {
     code: ["assembler", "HTML", "CSS", "Javascript", "Java", "Python", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "microprocessor programmer", "Electronics dev"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["Android App, iOS App All with Xamarin"],
         frontEnd: {
             js: ["Vue", "Nuxt"],
             css: ["materialize", "vuetify", "bootstrap"]
@@ -23,9 +23,10 @@ const jefferson = {
         backEnd: {
             js: ["nodeJS", "express", "AdonisJS"],
             python: ["flask"]
+            C#: [Xamarin, Unity]
         },
         devOps: ["AWS", "Docker🐳"],
-        databases: ["mongodb", "MySql", "sqlite"],
+        databases: ["SQL Server","mongodb", "MySql", "sqlite"],
         misc: ["Firebase", "Angular", "selenium", "Django", "php", "SuiteApp", "Proteus", "Comsol", "Matlab"],
         learning: ["ReactJS", "VUE", "R","Machine Learning", "Deep Learning"]
     },
