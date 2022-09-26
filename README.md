@@ -22,8 +22,8 @@ const jefferson = {
         },
         backEnd: {
             js: ["nodeJS", "express", "AdonisJS"],
-            python: ["flask"]
-            C#: [Xamarin, Unity]
+            python: ["flask"],
+            C#: ["Xamarin", "Unity"]
         },
         devOps: ["AWS", "Docker🐳"],
         databases: ["SQL Server","mongodb", "MySql", "sqlite"],
